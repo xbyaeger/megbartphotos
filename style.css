@@ -18,7 +18,7 @@ p {
     line-height: normal;
 }
 
-h2 {
+h2 { 
     color: white;
     text-align: center;
     text-shadow: 0px 4px 6px rgba(0, 0, 0, 0.25);
@@ -27,72 +27,11 @@ h2 {
     font-style: normal;
     font-weight: 400;
     line-height: normal;
-}
 
-h2 {
-    color: white;
-    text-align: center;
-    text-shadow: 0px 4px 6px rgba(0, 0, 0, 0.25);
-    font-family: "Abril Fatface";
-    font-size: 48px;
-    font-style: normal;
-    font-weight: 400;
-    line-height: normal;
+    padding: 40px 0;
+    max-width: 340px;
+    max-height: 180px;;
 }
-
-h2 {
-    color: white;
-    text-align: center;
-    text-shadow: 0px 4px 6px rgba(0, 0, 0, 0.25);
-    font-family: "Abril Fatface";
-    font-size: 48px;
-    font-style: normal;
-    font-weight: 400;
-    line-height: normal;
-}
-
-h2 {
-    color: white;
-    text-align: center;
-    text-shadow: 0px 4px 6px rgba(0, 0, 0, 0.25);
-    font-family: "Abril Fatface";
-    font-size: 48px;
-    font-style: normal;
-    font-weight: 400;
-    line-height: normal;
-}
-
-h2 {
-    color: white;
-    text-align: center;
-    text-shadow: 0px 4px 6px rgba(0, 0, 0, 0.25);
-    font-family: "Abril Fatface";
-    font-size: 48px;
-    font-style: normal;
-    font-weight: 400;
-    line-height: normal;
-}
-
-h2 {
-    color: white;
-    text-align: center;
-    text-shadow: 0px 4px 6px rgba(0, 0, 0, 0.25);
-    font-family: "Abril Fatface";
-    font-size: 48px;
-    font-style: normal;
-    font-weight: 400;
-    line-height: normal;
-}
-
-h2 {
-    color: white;
-    text-align: center;
-    text-shadow: 0px 4px 6px rgba(0, 0, 0, 0.25);
-    font-family: "Abril Fatface";
-    font-size: 48px;
-    font-style: normal;
-    font-weight: 400;
-    line-height: normal;
 }
 
 p {
@@ -103,4 +42,34 @@ p {
     font-style: normal;
     font-weight: 400;
     line-height: normal;
+}
+
+/* home page */
+
+.about {
+    background: url('about me.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.portfolio {
+    background: url('IMG_7169 1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.couples {
+    background: url('IMG_7168 1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.families {
+    background: url('IMG_7168 1-2.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
 }
