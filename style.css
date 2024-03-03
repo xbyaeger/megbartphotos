@@ -60,6 +60,21 @@ p {
     background-position: center;
 }
 
+.seniors {
+    background: url('Seniors.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+
+.sports {
+    background: url('Sports.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
 .couples {
     background: url('IMG_7168 1.jpg');
     background-repeat: no-repeat;
@@ -69,6 +84,13 @@ p {
 
 .families {
     background: url('IMG_7168 1-2.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.individuals {
+    background: url('Individuals.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
