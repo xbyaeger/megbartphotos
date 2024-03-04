@@ -51,6 +51,8 @@ p {
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
+    margin: auto;
+    margin-bottom: 20px;
     
 }
 
@@ -59,6 +61,8 @@ p {
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
+    margin: auto;
+    margin-bottom: 20px;
 }
 
 .seniors {
@@ -66,6 +70,8 @@ p {
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
+    margin: auto;
+    margin-bottom: 20px;
 }
 
 
@@ -74,6 +80,8 @@ p {
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
+    margin: auto;
+    margin-bottom: 20px;
 }
 
 .couples {
@@ -81,6 +89,8 @@ p {
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
+    margin: auto;
+    margin-bottom: 20px;
 }
 
 .families {
@@ -88,6 +98,8 @@ p {
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
+    margin: auto;
+    margin-bottom: 20px;
 }
 
 .individuals {
@@ -95,4 +107,6 @@ p {
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
+    margin: auto;
+    margin-bottom: 20px;
 }
